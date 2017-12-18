@@ -1,5 +1,7 @@
-package com.r21nomi.data.repos.remote
+package com.r21nomi.data.repos
 
+import com.r21nomi.data.repos.remote.ReposApi
+import com.r21nomi.data.repos.remote.ReposApiClient
 import dagger.Binds
 import dagger.Module
 import javax.inject.Singleton

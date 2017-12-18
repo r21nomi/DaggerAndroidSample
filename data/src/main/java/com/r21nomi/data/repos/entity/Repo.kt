@@ -1,4 +1,4 @@
-package com.r21nomi.data.repos.remote
+package com.r21nomi.data.repos.entity
 
 /**
  * Created by r21nomi on 2017/12/18.

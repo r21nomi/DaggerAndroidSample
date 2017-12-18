@@ -12,5 +12,4 @@ import dagger.Module
         )
 )
 class ApplicationModule {
-
 }

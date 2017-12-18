@@ -8,8 +8,6 @@ import dagger.android.ActivityKey
 import dagger.android.AndroidInjector
 import dagger.multibindings.IntoMap
 
-
-
 /**
  * Created by r21nomi on 2017/12/17.
  */
